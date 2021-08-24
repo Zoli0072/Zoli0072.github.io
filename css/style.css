@@ -1,0 +1,33 @@
+#home-header { color: red;
+font-family: Times New Roman;
+font-weight: 500;
+text-align: center;
+}
+#weboldal-header { color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-align: left;
+    }
+p {color: blue; 
+font-size: 22px;
+font-family:Arial;
+font-weight: 800;
+}
+li {color: black;
+}
+a {color: black;
+font-weight: 800;
+}
+img {
+    width: 200px;
+}
+h3 { color: brown;
+font-family: Arial, Helvetica, sans-serif;}
+.content { color: darkgreen;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 500;
+text-align: left;}
+.bold {font-weight: bold;}
+.img-div {
+    background-color: lightblue;
+}
