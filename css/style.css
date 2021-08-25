@@ -33,10 +33,9 @@ text-align: left;}
 .img-div {
     background-color: lightblue;
     border: solid 2px red;
-    position: relative;
     height: 250%;
 }
 #kep-1 {position: fixed;
 top: 200px;
-left: 640px;
+left: 660px;
 width: 150%;}
