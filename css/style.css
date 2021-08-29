@@ -1,0 +1,50 @@
+#home-header { color: red;
+font-family: Times New Roman;
+font-weight: 500;
+text-align: center;
+}
+#weboldal-header { color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-align: left;
+    }
+    html {background-color: silver;}
+p {color: blue; 
+font-size: 22px;
+font-family:Arial;
+font-weight: 800;
+}
+li {color: black;
+}
+a {color: black;
+font-weight: 800;
+}
+ul{ color: blanchedalmond;}
+img {
+    width: 200px;
+}
+h3 { color: brown;
+font-family: Arial, Helvetica, sans-serif;}
+.content { color: darkgreen;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 500;
+text-align: left;}
+.bold {font-weight: bold;}
+.img-div {
+    background-color: lightblue;
+    border: solid 2px red;
+}
+#kep-1 {position: fixed;
+top: 200px;
+left: 130px;
+width: 25%;
+}
+#kep-2 {position: fixed;
+    top: 200px;
+    left: 930px;
+    width: 25%;
+    }
+#hello_js {color: red;
+    font-family: Times New Roman;
+    font-weight: 500;
+    text-align: left;}
